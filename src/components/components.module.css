@@ -1,0 +1,11 @@
+.form {
+  align-self: center;
+  margin: 25px;
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+
+.btn {
+  width: 100px;
+}/*# sourceMappingURL=components.module.css.map */
